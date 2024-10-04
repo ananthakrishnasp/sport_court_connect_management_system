@@ -1,0 +1,1 @@
+The provided code is for a "Sports Court Management System" written in C++. It allows users to manage player information, including booking courts, modifying records, and handling security deposits. Key features include adding, modifying, and displaying users' data for sports courts. It also handles file storage and retrieval for user and court information
