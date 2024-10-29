@@ -1,6 +1,6 @@
 # Sports Court Connect Management System
 
-This repository contains a C++ implementation for managing sports court reservations and user interactions. The system allows administrators and users to manage courts, reservations, and schedules efficiently.
+"Sports Court Connect Management System" is a C++ project utilizing file handling to efficiently manage court bookings, user registrations, and schedules, providing a seamless experience for sports facility management.
 
 ## Prerequisites
 
